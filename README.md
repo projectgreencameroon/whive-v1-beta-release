@@ -1,10 +1,10 @@
 # whive-v1-beta-release
 
-Download wallet binary from https://github.com/whiveio/whive-testnet/releases/tag/0.0.1
+Download wallet binary from https://github.com/whiveio/whive-v1-beta-release/releases/tag/0.1
 
-Windows : https://github.com/whiveio/whive-testnet/releases/download/0.0.1/testnet.zip
+Windows :https://github.com/whiveio/whive-v1-beta-release/releases/download/0.1/whive.zip
 
-linux : https://github.com/whiveio/whive-testnet/releases/download/0.0.1/testnet.tar.gz
+linux : https://github.com/whiveio/whive-v1-beta-release/releases/download/0.1/whive.tar.gz
 
 Unzip file to:
 
