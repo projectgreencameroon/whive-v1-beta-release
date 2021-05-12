@@ -16,7 +16,8 @@ For windows the whive.conf file is in c:\whive\data For linux the whive.conf fil
 
 For windows double click the shortcut c:\whive\run.lnk . For linux execute run.sh i.e ./run.sh
 
-Create blocks
+Mining blocks
+
 mining script included in zip and tar files
 
 Windows -- mine.bat
