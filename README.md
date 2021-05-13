@@ -4,19 +4,19 @@ Download wallet binary:
 
 Windows :https://github.com/whiveio/whive-v1-beta-release/releases/download/0.1/whive.zip
 
-linux : https://github.com/whiveio/whive-v1-beta-release/releases/download/0.1/whive.tar.gz
+Linux : https://github.com/whiveio/whive-v1-beta-release/releases/download/0.1/whive.tar.gz
 
 Unzip file to:
 
-Windows: C:\testnet
+Windows: C:\whive
 
-Linux: $HOMEDIR\testnet
+Linux: $HOMEDIR\whive
 
 # Run Wallet
 
 For windows double click the shortcut c:\whive\whive-qt.bat.
 
-For linux execute run.sh i.e ./run.sh
+For linux execute run.sh by typing  ./run.sh
 
 # Mining blocks
 
