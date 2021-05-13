@@ -2,6 +2,8 @@
 
 Download wallet binary from https://github.com/whiveio/whive-v1-beta-release/releases/tag/0.1
 
+#OR
+
 Windows :https://github.com/whiveio/whive-v1-beta-release/releases/download/0.1/whive.zip
 
 linux : https://github.com/whiveio/whive-v1-beta-release/releases/download/0.1/whive.tar.gz
