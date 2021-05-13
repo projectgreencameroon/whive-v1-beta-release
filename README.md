@@ -10,7 +10,7 @@ Unzip file to:
 
 Windows: C:\whive
 
-Linux: $HOMEDIR\whive
+Linux: $HOMEDIR/whive
 
 # Run Wallet
 
