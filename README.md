@@ -10,7 +10,7 @@ Unzip file to:
 
 Windows: C:\
 
-run in home directory : tar xvf whive.tar.gz 
+Run following command in home directory : tar xvf whive.tar.gz 
 
 Linux: $HOMEDIR/
 
