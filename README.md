@@ -12,7 +12,7 @@ Windows: C:\
 
 run in home directory : tar xvf whive.tar.gz 
 
-Linux: $HOMEDIR/whive
+Linux: $HOMEDIR/
 
 # Run Wallet
 
