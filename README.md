@@ -8,7 +8,9 @@ Linux : https://github.com/whiveio/whive-v1-beta-release/releases/download/0.1/w
 
 Unzip file to:
 
-Windows: C:\whive
+Windows: C:\
+
+run in home directory : tar xvf whive.tar.gz 
 
 Linux: $HOMEDIR/whive
 
