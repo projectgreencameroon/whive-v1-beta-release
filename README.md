@@ -11,10 +11,10 @@ Unzip file to:
 
 Windows: C:\
 
-# Run Wallet
+* Run Wallet
 For windows double click the shortcut c:\whive\whive-qt.bat.
 
-# Mining blocks
+* Mining blocks
 mining script included in zip files
 
 Windows -- mine.bat
@@ -24,10 +24,10 @@ Run following command in home directory : tar xvf whive.tar.gz
 
 Linux: $HOMEDIR/
 
-# Run Wallet
+* Run Wallet
 For linux execute run.sh by typing  ./run.sh
 
-# Mining blocks
+* Mining blocks
 mining script included in tar files
 
 Linux -- mine.sh
